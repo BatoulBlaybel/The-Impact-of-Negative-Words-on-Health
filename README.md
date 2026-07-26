@@ -11,10 +11,6 @@ The study focuses on collecting and analyzing survey responses to better underst
 
 Data collection is currently ongoing, and participation through the survey will contribute valuable insights to support this research.
 
-## 📊 Data Collection
-
-A short survey (approximately 10 minutes) is being conducted to collect participant responses.
-
 🔗 [Participate in the Survey](https://ee.kobotoolbox.org/x/cjn5yO8j)
 
 ## 🛠️ Methodology
