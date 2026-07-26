@@ -2,7 +2,6 @@
 
 ## 📌 Project Status
 🚧 **Ongoing**  
-📅 **May 2025 – Present**
 
 ## 📖 Overview
 
