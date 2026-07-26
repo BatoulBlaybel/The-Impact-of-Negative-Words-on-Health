@@ -16,7 +16,7 @@ Data collection is currently ongoing, and participation through the survey will 
 
 A short survey (approximately 10 minutes) is being conducted to collect participant responses.
 
-🔗 [Participate in the Survey:] (https://ee.kobotoolbox.org/x/cjn5yO8j)
+🔗 [Participate in the Survey](https://ee.kobotoolbox.org/x/cjn5yO8j)
 
 ## 🛠️ Methodology
 
